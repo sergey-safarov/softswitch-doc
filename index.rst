@@ -24,3 +24,15 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
+.. _user-docs:
+
+.. toctree::
+   :maxdepth: 2
+   :caption: User Documentation
+
+   getting_started
+   versions
+   builds
+   features
+   support
+   faq
