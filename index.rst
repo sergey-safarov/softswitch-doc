@@ -30,6 +30,7 @@ Indices and tables
    :maxdepth: 2
    :caption: User Documentation
 
+   servers
    getting_started
    versions
    builds
