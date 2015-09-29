@@ -13,7 +13,7 @@
 .. table:: Truth table for "not"
 
    =====  =====
-   серве  not A
+   Наименование  not A
    =====  =====
    False  True
    True   False
