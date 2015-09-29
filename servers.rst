@@ -12,13 +12,13 @@
 
 .. table:: Truth table for "not"
 
-   =====  =====
+   ============  =====
    Наименование  not A
-   =====  =====
-   False  True
-   True   False
-   =====  =====
-
+   ============  =====
+   False         True
+   True          False
+   ============  =====
+   
 
 .. table:: T1ruth table for "not"
 
