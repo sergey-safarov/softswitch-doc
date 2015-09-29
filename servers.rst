@@ -13,7 +13,7 @@
 .. table:: Truth table for "not"
 
    =====  =====
-     A    not A
+   серве  not A
    =====  =====
    False  True
    True   False
