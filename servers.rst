@@ -27,8 +27,6 @@ Section Title11
 
 
 
-Section Title3
-==============
 
 Section Title4
 --------------
