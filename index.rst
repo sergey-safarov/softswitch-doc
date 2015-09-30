@@ -31,6 +31,7 @@ Indices and tables
    :caption: User Documentation
 
    servers
+   call-routing
    getting_started
    versions
    builds
